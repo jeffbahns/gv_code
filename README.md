@@ -1,5 +1,9 @@
 # GV Code Challenge
 
+This is my submission for the technical assignment I was given. 
+
+Why Python, you might ask? Well, it's wildy convenient to use for proof-of-concept on a problem like the one given. It's good to use the best tool for the job!
+
 ## Installation Instructions
 This program utilizes Python (3.4) and one of its' standard libraries 'sys'. 
 
